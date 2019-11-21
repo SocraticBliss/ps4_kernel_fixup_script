@@ -1,6 +1,26 @@
 # PS4 Kernel Cleanup
 SocraticBliss(R)
 
+Still a WIP
+
+1) Offset Fixup
+2) Structs Creation
+   - cdevsw
+   - sys_init
+   - sys_uninit
+   - kobj_class
+   - brand_info
+   - brandnote
+   - malloc_type
+   - mod_depend
+   - mod_metadata
+   - mod_version
+   - moduledata_t
+   - driver_module_data
+   - sysctl_oid
+   - sysentvec
+   - sysent
+
 Major Thanks to...
 * ChendoChap
 * Pablo (kozarovv)

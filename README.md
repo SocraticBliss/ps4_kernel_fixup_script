@@ -12,5 +12,5 @@ Major Thanks to...
 * Specter
 
 # Usage
-1) Load an early PS4 Kernel (with symbols) as an ELF64.
+1) Load an early PS4 Kernel (with symbols) as an **ELF64**.
 2) Run the **ps4_kernel_cleanup.py** script
